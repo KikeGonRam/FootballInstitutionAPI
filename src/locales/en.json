@@ -1,0 +1,13 @@
+{
+    "welcome": "Welcome to the football institution API",
+    "error": {
+        "user_exists": "User already exists",
+        "invalid_credentials": "Invalid credentials",
+        "unauthorized": "Unauthorized",
+        "not_found": "Resource not found",
+        "server_error": "Server error"
+    },
+    "success": {
+        "deleted": "Resource deleted successfully"
+    }
+}
